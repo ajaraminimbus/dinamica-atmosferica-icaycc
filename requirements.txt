@@ -4,3 +4,4 @@ matplotlib
 ipympl
 ipywidgets
 jupyterlab
+voila
