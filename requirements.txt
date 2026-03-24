@@ -4,4 +4,5 @@ matplotlib
 ipympl
 ipywidgets
 jupyterlab
+scipy
 voila
